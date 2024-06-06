@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Will. 👋 And I like to code.
+Freelance full-stack developer based in Bristol, UK.
 
-<!--
-**William-Blackie/William-Blackie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack 💻
 
-Here are some ideas to get you started:
+Some of my favourite technologies and tools at the moment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Python, Django, Wagtail CMS and Fast API
+    React and Next
+    JavaScript/TypeScript
+    TailwindCSS and Sass
+    Node.js
+    PostgreSQL
+    Docker 🐳
+    GitHub Actions, GitLab CI
+
+What I like 💗
+
+    Motorcycles 🏍️
+    Coffee ☕
+    Traveling ✈️
+    Frontend, Backend and everything in between
+    small plates 🍽️
+How to reach me 💌
+
+    [linkedIn](https://www.linkedin.com/in/william-blackie)
+    Send a nice email to [hello@williamblackie.com](mailto:hello@williamblackie.com)
