@@ -26,4 +26,4 @@ How to reach me 💌
 
 [linkedIn](https://www.linkedin.com/in/william-blackie)
 
-Send a nice email to [hello@williamblackie.com](mailto:hello@williamblackie.com)
+Send a nice email to [will@developerfy.com](mailto:will@developerfy.com)
