@@ -1,5 +1,5 @@
 Hi, I'm Will. 👋 And I like to code.
-Freelance full-stack developer based in Bristol, UK.
+Full-stack developer based in Bristol, UK.
 
 Tech Stack 💻
 
